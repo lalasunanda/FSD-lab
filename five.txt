@@ -1,0 +1,29 @@
+npm init -y
+npm install express
+npm install nodemon -D
+npm run test
+npm run dev
+
+#install node
+npm install -g npm@latest
+npm install react react-dom
+
+#create app 
+npx create-react-app-counter
+cd counter
+npm start
+
+#for fetch-axios
+npm install axios
+
+#mongodb
+node server.js
+npm install mongoose
+node server1.js
+
+#loan
+npm install bootstrap
+npm install react-boostrap
+npm install file-saver
+
+
